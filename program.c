@@ -16,4 +16,11 @@ int calculate(void){
 	// ... cue calculations
 	
 	return result;
+
+void create(void){
+	// ... function creates some stuff and databases it
+	
+	// .. cue creation
+	
+	// .. creation finished
 }
