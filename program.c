@@ -5,14 +5,17 @@ void create(void);
 const char * read(const char * path);
 
 
-
+// This is the main functions where everything is done.
 int main(void){
 	printf("This is a demo program for merging and branching on git.");	
 	
-	// TODO: Comment this code ..
+	// First we must find this x
 	int x = calculate();
+	// We can create some stuff here in the database
 	create();
+	// We need to make more stuff in the db
 	create();
+	// Now we can finally calculate y using x
 	y = x + calculate();
 	
 	return 0;
