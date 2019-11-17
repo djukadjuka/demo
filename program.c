@@ -45,3 +45,8 @@ const char * read(const char * path){
 	
 	return data;
 }
+
+// Function just prints a line
+void print_line(void){
+	print("\n-------------------------------------\n");
+}
