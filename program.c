@@ -8,3 +8,11 @@ int main(void){
 	printf("This is a demo program for merging and branching on git.");	
 	return 0;
 }
+
+void create(void){
+	// ... function creates some stuff and databases it
+	
+	// .. cue creation
+	
+	// .. creation finished
+}
