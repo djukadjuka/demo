@@ -36,3 +36,12 @@ void create(void){
 	
 	// .. creation finished
 }
+
+const char * read(const char * path){
+	// ... function reads some data from some path and returns it
+	const char * data = read_data(path);
+	
+	// .. does something else ...
+	
+	return data;
+}
